@@ -1,5 +1,6 @@
  
 HOW TO USING THIS APPLICATION:
+
 SERVER
 ----------
 1. g++ server.cpp -lpthread -o server
