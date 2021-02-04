@@ -1,6 +1,5 @@
  
-   How To using this Multi-Client Chat-Room With C++ Language : 
-<-------------------------------------------------------------->
+HOW TO USING THIS APPLICATION:
 SERVER
 ----------
 1. g++ server.cpp -lpthread -o server
